@@ -1,2 +1,2 @@
 # Datathon-NintendoDS
-For DIP Datathon
+Fist Runner-up for DIP Datathon held at Concordia University
